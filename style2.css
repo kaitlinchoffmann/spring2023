@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  height: 80px;
+  width: 70%;
+  border: 2px solid slateblue;
+  margin: 40px auto;
+  text-align: center;
+  border-radius: 10px;
+  background-color: aliceblue;
+  padding: 20px;
+  font-weight: 300;
+}
+
+p {
+  width: 500px;
+  line-height: 1.6;
+  font-size: 18px;
+  border-bottom: 1px solid slateblue;
+  margin: auto;
+  padding-bottom: 20px;
+}
